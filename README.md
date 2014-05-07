@@ -1,4 +1,5 @@
 ExhaustiveKnapsack
 ==================
 
-[R] Exhaustive Search : Knapsack problem (poor solution)
+[R] Exhaustive Search : Knapsack problem (brainless solution)
+
